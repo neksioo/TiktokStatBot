@@ -1,28 +1,19 @@
 @echo off
 MODE 80,1
-title [TiktokStatBot Installer] - Installing modules: discum
-pip install discum
+title [TiktokStatBot Installer] - Installing modules: discord
+pip install discord
 cls
-title [TiktokStatBot Installer] - Installing modules: ctypes
-pip install ctypes
+title [TiktokStatBot Installer] - Installing modules: requests
+pip install requests
 cls
-title [TiktokStatBot Installer] - Installing modules: json
-pip install json
-cls
-title [TiktokStatBot Installer] - Installing modules: string
-pip install string
-cls
-title [TiktokStatBot Installer] - Installing modules: random
-pip install random
+title [TiktokStatBot Installer] - Installing modules: time
+pip install time
 cls
 title [TiktokStatBot Installer] - Installing modules: os
 pip install os
 cls
-title [TiktokStatBot Installer] - Installing modules: datetime
-pip install datetime
-cls
-title [TiktokStatBot Installer] - Installing modules: colorama
-pip install colorama
+title [TiktokStatBot Installer] - Installing modules: fake_headers
+pip install fake_headers
 cls
 title [TiktokStatBot Installer] - Modules installed
 timeout 2 >nul
