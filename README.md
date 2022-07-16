@@ -8,8 +8,6 @@
 
 # Credits 📝
 
-・Made by neksio#8125<br>
-・Made with help of discum docs<br>
-・Made with help on stack overflow<br>
+・Made by neksio#9999<br>
 ・Made with ❤<br>
 
