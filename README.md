@@ -1,4 +1,4 @@
-# Tiktok Star Bot 🔥
+# Tiktok Stat Bot 🔥
 ・Tiktok stat bot that u can use through discord bot, made for educational purposes only
 
 # How to run program 🍱
